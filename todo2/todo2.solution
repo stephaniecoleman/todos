@@ -1,0 +1,17 @@
+touch stephaniecoleman.txt
+
+nano stephaniecoleman.txt
+
+save in nano by pressing CTRL X and enter
+
+cat stephaniecoleman.txt
+
+cat stephaniecoleman.txt > stephaniecolemancopy.txt
+
+mv stephaniecolemancopy.txt stevenrules.txt
+
+cat stephaniecoleman.txt stevenrules.txt > everything.txt
+
+echo "I like pina coladas and getting caught in the rain" >> everything.txt
+
+ls *.txt > textfileslist
